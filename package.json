@@ -1,0 +1,15 @@
+{
+  "name": "conexion_venice-tango",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Gerencia Técnica Indelt",
+  "license": "ISC",
+  "description": "Conecta Tango Software con Venice PMR para automatizacion de facturas",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
